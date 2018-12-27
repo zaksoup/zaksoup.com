@@ -5,6 +5,7 @@ class Index extends Component {
     return (
       <div>
         <p>Hi, this is zaksoup.{'{'}cloud, space{'}'}. What's up, my dudes!?</p>
+        <p>One day, I'll have something interesting here</p>
       </div>
     )
   }
