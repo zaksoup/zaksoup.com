@@ -1,0 +1,9 @@
+{
+  "name": "zaksoup.com",
+  "version": 2,
+  "builds": [
+    { "src": "next.config.js", "use": "@now/next" }
+  ],
+  "alias": ["zaksoup.cloud", "zaksoup.space"]
+}
+
